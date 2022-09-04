@@ -1,4 +1,4 @@
-# Weather-Detector-Project
-Made a weather application which shows the details about the weather in A city.Used the API of Openweathermap.
-Technologies used - HTML,CSS,Django.
+# Real-Time-Chat-App
+Developed a room based real-time chat application. Includes user authentication.
+Technologies used - HTML,CSS,JavaScript,Django,SQLite.
     
